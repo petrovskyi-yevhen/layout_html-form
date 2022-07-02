@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,QACE,eACF,CAEA,gBACE,eACF","file":"style.13cc2e18.css","sourceRoot":"../src","sourcesContent":["\n.inputs {\n  margin-top: 10px;\n}\n\n.fieldset-style {\n  margin-top: 20px;\n}\n"]}
